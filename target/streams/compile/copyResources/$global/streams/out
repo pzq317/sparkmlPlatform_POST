@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(/home/pzq317/Desktop/SparkMLPlatform3/conf/logback.xml,/home/pzq317/Desktop/SparkMLPlatform3/target/scala-2.11/classes/logback.xml)
+[debug] 	(/home/pzq317/Desktop/SparkMLPlatform3/conf/routes,/home/pzq317/Desktop/SparkMLPlatform3/target/scala-2.11/classes/routes)
+[debug] 	(/home/pzq317/Desktop/SparkMLPlatform3/conf/application.conf,/home/pzq317/Desktop/SparkMLPlatform3/target/scala-2.11/classes/application.conf)
